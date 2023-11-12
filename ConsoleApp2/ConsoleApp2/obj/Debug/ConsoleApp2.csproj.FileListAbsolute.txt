@@ -1,0 +1,6 @@
+E:\Course\malware\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Course\malware\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Course\malware\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Course\malware\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Course\malware\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Course\malware\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

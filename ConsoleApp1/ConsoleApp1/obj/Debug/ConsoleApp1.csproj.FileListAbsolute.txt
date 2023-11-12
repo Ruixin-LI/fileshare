@@ -1,0 +1,7 @@
+E:\Course\malware\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Course\malware\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Course\malware\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Course\malware\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ResolveComReference.cache
+E:\Course\malware\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Course\malware\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Course\malware\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
